@@ -1,0 +1,25 @@
+body {
+    background-color: lightgreen;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: orange;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: white;
+    margin-right: 1em;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em;
+    background-color: orange;
+    color: white;
+  }
+  
