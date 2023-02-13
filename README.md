@@ -1,2 +1,3 @@
 # ChatGPT
-Using ChatGPT
+Using ChatGPT for coding!
+
